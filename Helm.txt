@@ -79,3 +79,12 @@ Remember to consult the official Helm documentation (https://helm.sh/docs/) for 
 By harnessing the power of Helm, you can simplify and streamline your Kubernetes application deployment and management processes. Whether you are 
 deploying small-scale applications or managing complex microservices architectures, Helm’s capabilities will help you achieve consistency, scalability, 
 and efficiency.
+
+Helm Cheatsheets:
+https://helm.sh/docs/intro/cheatsheet/
+https://phoenixnap.com/kb/helm-commands-cheat-sheet
+https://www.tutorialworks.com/helm-cheatsheet/
+https://gist.github.com/tdr2d/9c1f0fa50c6defc666d423198354adc8
+https://helm.sh/docs/helm/
+https://cheatsheetfactory.geekyhacker.com/container/helm
+https://www.tutorialspoint.com/helm-commands-cheat-sheet
